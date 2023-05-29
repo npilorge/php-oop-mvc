@@ -6,6 +6,9 @@ This application generates a dashboard displaying a dealer's list of cars. The d
 
 Stack : PHP, JS (JQuery), CSS (Bootstrap), HTML
 
+## Database
+To install the database for this project, the connection logs are in the app/models/Connector.php file.
+
 ## Screenshots
 
 (To do...)
