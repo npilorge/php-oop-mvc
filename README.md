@@ -6,4 +6,6 @@ This application generates a dashboard displaying a dealer's list of cars. The d
 
 Stack : PHP, JS (JQuery), CSS (Bootstrap), HTML
 
-## ScreenShot
+## Screenshots
+
+(To do...)
