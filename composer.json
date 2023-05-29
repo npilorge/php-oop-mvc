@@ -1,0 +1,11 @@
+{
+    "name": "mon-projet/app_concessionnaire",
+    "description": "Application de gestion d'un concessionnaire de véhicules",
+    "type": "project",
+    "require": {},    
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
