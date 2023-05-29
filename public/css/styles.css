@@ -1,0 +1,15 @@
+#page-header {
+	margin-top: 20px;
+	font-family: sans-serif;
+}
+
+#add-button {
+	background-color: green;
+	color: white;
+	padding: 6px 12px;
+}
+
+#add-button:hover {
+	background-color: #4a704a;
+	border-color : #4a704a;
+}
