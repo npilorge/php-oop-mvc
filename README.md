@@ -1,4 +1,4 @@
-# php-poo-mvc
+# php-oop-mvc
 A PHP project using MVC to manage cars of a distributor
 
 ## Description
