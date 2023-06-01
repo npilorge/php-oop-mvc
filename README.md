@@ -12,9 +12,9 @@ You can use the dump.sql to populate the base.
 
 ## Improvement coming soon
 
-- Addition of a TWIG for display
-- CAD/DTO slicing
+- Add TWIG for display
+- DAO, DTO splitting
 
 ## Screenshots
-
-(To do...)
+<img src="https://imgur.com/NPCeUMP" />
+<img src="https://imgur.com/dHlWpYf" />
