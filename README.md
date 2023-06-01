@@ -16,5 +16,5 @@ You can use the dump.sql to populate the base.
 - DAO, DTO splitting
 
 ## Screenshots
-<img src="https://imgur.com/NPCeUMP" />
-<img src="https://imgur.com/dHlWpYf" />
+<img src="https://i.imgur.com/NPCeUMP.png" />
+<img src="https://i.imgur.com/dHlWpYf.png" />
