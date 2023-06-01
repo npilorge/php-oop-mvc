@@ -10,6 +10,11 @@ Stack : PHP, JS (JQuery), CSS (Bootstrap), HTML
 To install the database for this project, the connection logs are in the app/models/Connector.php file.
 You can use the dump.sql to populate the base.
 
+## Improvement coming soon
+
+- Addition of a TWIG for display
+- CAD/DTO slicing
+
 ## Screenshots
 
 (To do...)
